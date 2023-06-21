@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../crackers"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "countdown timer"
+	}
+}

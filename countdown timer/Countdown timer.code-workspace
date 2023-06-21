@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../shopping"
+		},
+		{
+			"path": "../New folder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shopping"
+	}
+}
